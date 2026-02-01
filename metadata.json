@@ -1,0 +1,7 @@
+{
+  "name": "Drr-Ora  ",
+  "description": "An expert AI dental consultant providing evidence-based dental advice using ADA and international medical standards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
